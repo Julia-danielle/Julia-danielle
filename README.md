@@ -1,4 +1,4 @@
-#Olá
+# Olá
 meu nome é Julia Danielle, tenho 18 anos e sou de Sapucaia do Sul. Concluí o ensino médio no ano passado. Já fiz curso de mecânico de usinagem, porém não foi algo que realmente me surpreendeu. Também entrei para a área da estética, trabalhando com sobrancelhas e cílios, mas também não foi algo que deu certo e nem me fez querer continuar nessa área.
 
 Ao longo da escola, eu já tinha interesse em ingressar no mundo da tecnologia e adquirir conhecimentos na área da informática. Essa área sempre brilhou meus olhos e despertou um enorme interesse em mim. Então, comprei um computador e comecei a pesquisar e estudar bastante sobre a área.
